@@ -1,0 +1,10 @@
+com\phptravels\Base\BrowserFactory.class
+com\phptravels\Utilities\TestData.class
+com\phptravels\Pages\SearchResultsPage.class
+com\phptravels\Utilities\TestErrorExceptions.class
+com\phptravels\Utilities\Xls_Reader.class
+com\phptravels\Pages\HomePage.class
+com\phptravels\Base\Waits.class
+com\phptravels\Base\BaseClass.class
+com\phptravels\SauceLabs\SauceLabsConnection.class
+com\phptravels\Utilities\TestUtil.class
